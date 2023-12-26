@@ -1,5 +1,7 @@
 header{
-background-color: purple;
-color: black;  
-  
-}
+  background-color: purple;
+  color: black;  
+  }
+.heading{
+    text-align: center;
+  }
