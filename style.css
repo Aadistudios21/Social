@@ -1,9 +1,10 @@
+.heading{
+    text-align: center;
+}
 header{
   background-color: purple;
   color: white; 
   padding: none;
   margin-radius: 10px;
-  }
-.heading{
-    text-align: center;
-  }
+}
+
